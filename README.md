@@ -1,6 +1,6 @@
 # About Me:
 
-<br>I am a Computer Science and Engineering graduate from the University of Moratuwa, with a deep interest in artificial intelligence, machine learning, and data-driven applications.<br><br>My work centers around developing practical AI solutions, integrating large language models into real-world systems, and building tools that improve model interpretability. <br><br>Currently, I am contributing to building AI-powered backend services using technologies such as  FastAPI, Vertex AI, and LangChain. 
+<br>I am a Computer Science and Engineering graduate, with a deep interest in artificial intelligence, machine learning, and data-driven applications.<br><br>My work centers around developing practical AI solutions, integrating large language models into real-world systems, and building tools that improve model interpretability. <br><br>Currently, I am contributing to building AI-powered backend services using technologies such as  FastAPI, Vertex AI, and LangChain. 
 
 
 
