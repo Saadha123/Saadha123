@@ -47,5 +47,6 @@ Currently, I am contributing to building AI-powered backend services using techn
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
+### Badges
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/Saadha123.svg)](https://user-badge.committers.top/sri_lanka/Saadha123)
 
